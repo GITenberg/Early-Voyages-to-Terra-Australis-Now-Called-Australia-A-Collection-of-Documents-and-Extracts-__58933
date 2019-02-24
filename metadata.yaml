@@ -1,5 +1,8 @@
 _repo: Early-Voyages-to-Terra-Australis-Now-Called-Australia-A-Collection-of-Documents-and-Extracts-__58933
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58933-h/images/cover.jpg
 creator:
   author:
     agent_name: Major, Richard Henry
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '33907'
     url: http://www.gutenberg.org/2009/agents/33907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58933#Early-Voyages-to-Terra-Australis-Now-Called-Australia-A-Collection-of-Documents-and-Extracts-_
 gutenberg_issued: '2019-02-22'
 gutenberg_type: Text
 identifiers:
